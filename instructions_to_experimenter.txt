@@ -1,0 +1,5 @@
+Instructions for running the experiment:
+
+* Use StandalonePsychoPy3-3.1.5-win64
+* Put the grey lead in the front jack with a symbol for microphone & headphones.
+* Put the black lead in the front jack with the symbol for headphones.
