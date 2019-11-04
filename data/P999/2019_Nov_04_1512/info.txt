@@ -1,0 +1,5 @@
+condition hard-first
+age 20
+gender female
+session 001
+devmode False
