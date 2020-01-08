@@ -1,10 +1,11 @@
-# To do
+# Summary
 
-- [x] Change stimulus presentation to full screen (the current stimulus positions are likely fine). 
+A list of words is presented: once serially, in the centre of the ecreen, then for a second time in parallel, vertically.
 
-- [x] Alongside participant and session number, include boxes to record participant age and gender. 
+The participant speaks as many words from the list as they can recall into a microphone, then terminates the recording with a button press when they have exhausted their memory for the list.
 
-- [x] Add instructions (a) at the beginning of the experiment/before practice trial block, and (b) before the beginning of the first 'real’ trial block. Spacebar to dismiss instructions.
+Instructions to the participant were as follow:
+
 
 (a) at the beginning of the experiment/before practice trial block
 >
@@ -28,7 +29,3 @@
 >
 > Please press the spacebar to begin block 1. 
 
-
-- [x] During practice trials: (a) add the instruction to 'please encode each target word in List #’ when the first and second word list are presented. This instruction could be present when the participant encodes the lists in both presentation formats (i.e. sequential and simultaneous). This instruction could be added at the top of the screen, but I’m really not fussy, as long as the instructions are placed a sufficient distance away from the cue and target words. (b) add the instruction to 'please recall as many words as you can from word list # and press the (key) when you cannot remember any more’ during the two recall periods, ( c) prior to the presentation of each list for encoding would it be possible to add a filler screen that simply says 'List 1’ and 'List 2’ to differentiate between the two lists and to ensure that the participant notices the change in list/associated cue word. 
-
-- [x] During experimental trials: By now the participant should understand the task so I don’t think it will be necessary to replicate steps (a) and (b) (i.e. including encoding and recall instructions), but would it still be possible to separate the two words lists during encoding with the filler screen (step c, above)?
